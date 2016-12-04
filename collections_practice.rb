@@ -55,7 +55,7 @@ def sum_array(array)
   # using inject method (short)
      # array.inject(:+)
 
-  # using inject method (long)
+  #using inject method (long)
      # array.inject do |sum,x|
      #  sum + x
      # end
